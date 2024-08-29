@@ -7,6 +7,7 @@ import PopularCalculators from './components/PopularCalculators';
 import PBAdvantage from './components/PBAdvantage';
 import GroupBrands from './components/GroupBrands';
 import Footer from './components/Footer';
+import ImageCarousel from './components/ImageCarousel';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <InsuranceOptions/>
       <FooterPromotions/>
       <InfoSection/>
+      <ImageCarousel/>
       <PopularCalculators/>
       <PBAdvantage/>
       <GroupBrands/>
